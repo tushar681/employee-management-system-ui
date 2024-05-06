@@ -1,0 +1,1 @@
+export const employeeManagementApiUrl = 'http://localhost:8081';
